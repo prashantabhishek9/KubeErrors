@@ -1,4 +1,4 @@
-# k8s-500-prod-issues
+# k8s-500-prod-issues and the solution
 
 ```
 📘 Scenario #1: Zombie Pods Causing NodeDrain to Hang
