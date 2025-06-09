@@ -1,1 +1,1 @@
-Details and troubleshoot of the errors faced on Kube.
+Details and troubleshoot of the errors faced on Kubernetes.
